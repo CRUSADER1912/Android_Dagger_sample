@@ -7,6 +7,7 @@ import dagger.Component;
 @Singleton
 @Component(modules = {
         ApplicationModule.class,
+        ActivityBindingModule.class,
 })
 public interface ApplicationComponent {
 }
