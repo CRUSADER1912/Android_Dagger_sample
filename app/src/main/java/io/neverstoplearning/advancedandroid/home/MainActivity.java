@@ -1,7 +1,9 @@
-package io.neverstoplearning.advancedandroid;
+package io.neverstoplearning.advancedandroid.home;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import io.neverstoplearning.advancedandroid.R;
 
 public class MainActivity extends AppCompatActivity {
 
